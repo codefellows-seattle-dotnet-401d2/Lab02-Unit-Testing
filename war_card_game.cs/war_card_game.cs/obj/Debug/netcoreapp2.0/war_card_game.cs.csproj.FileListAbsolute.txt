@@ -1,0 +1,8 @@
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\bin\Debug\netcoreapp2.0\war_card_game.cs.deps.json
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\bin\Debug\netcoreapp2.0\war_card_game.cs.runtimeconfig.json
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\bin\Debug\netcoreapp2.0\war_card_game.cs.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\bin\Debug\netcoreapp2.0\war_card_game.cs.dll
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\obj\Debug\netcoreapp2.0\war_card_game.cs.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\obj\Debug\netcoreapp2.0\war_card_game.cs.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\obj\Debug\netcoreapp2.0\war_card_game.cs.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Lab02-Unit-Testing\war_card_game.cs\war_card_game.cs\obj\Debug\netcoreapp2.0\war_card_game.cs.AssemblyInfo.cs
