@@ -1,12 +1,12 @@
 ﻿using System;
-
+/*
 class War
 {
     static int[] deck = new int[52]; //using logic that 1-52 is all cards, with 2 of clubs, diamonds, hearts, and spades as 1-4
     static int lastCardIndex = 0;
     static string[] cards = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace" };
     static string[] suits = { "hearts", "diamonds", "clubs", "spades" };
-    static Random rand = new Random();
+    static Random random = new Random();
 
     static void Main()
     {
@@ -22,16 +22,16 @@ class War
         }
     }
 
-    static void FillDeck()
+    static void RefillDeck()
     {
         for (int i = 0; i < 52; i++)
         {
             while (true)
             {
-                int num = rand.Next(1, 53);
-                if (Array.IndexOf(deck, num) == -1)
+                int number = random.Next(1, 53);
+                if (Array.IndexOf(deck, number) == -1)
                 {
-                    deck[i] = num;
+                    deck[i] = number;
                     break;
                 }
             }
@@ -42,9 +42,11 @@ class War
     {
         int num = deck[lastCardIndex];
         lastCardIndex++;
-        suit = suits[(num - 1) % 4];
-        return (num - 1) / 4 + 1;
     }
 }
+/*
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Realized we didn't need to do this much for project, actual attempt below*//
 
 
