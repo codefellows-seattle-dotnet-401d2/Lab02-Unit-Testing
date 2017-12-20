@@ -1,6 +1,6 @@
 using System;
-using Xunit;
 using WarCardGame;
+using Xunit;
 
 namespace XUnitTest_WarCardGame
 {
@@ -10,14 +10,14 @@ namespace XUnitTest_WarCardGame
         [InlineData(32, 21, true)]
         public void CanReturnTrue(int card1, int card2, bool expectedValue)
         {
-            Xunit.Assert.Equal(expectedValue, Game.IsCardOneHigher(card1, card2));
+            Assert.Equal(expectedValue, Game.IsCardOneHigher(card1, card2));
         }
 
         [Theory]
         [InlineData(21, 32, false)]
         public void CanReturnFalse(int card1, int card2, bool expectedValue)
         {
-            Xunit.Assert.Equal(expectedValue, Game.IsCardOneHigher(card1, card2));
+            Assert.Equal(expectedValue, Game.IsCardOneHigher(card1, card2));
         }
     }
 }
