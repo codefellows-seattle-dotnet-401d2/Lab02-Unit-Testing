@@ -6,3 +6,6 @@ C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCrac
 C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.csproj.CoreCompileInputs.cache
 C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.AssemblyInfoInputs.cache
 C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCracker\bin\Debug\netcoreapp2.0\CodeCracker.pdb
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.dll
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\CodeCracker\CodeCracker\obj\Debug\netcoreapp2.0\CodeCracker.pdb
