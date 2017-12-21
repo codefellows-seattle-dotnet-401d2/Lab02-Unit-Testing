@@ -13,14 +13,11 @@
 
 The rules of this card game are quite simple : <br />
 1. There are two players.
-2. The cards are all dealt equally to each player.
-3. Each round, player 1 lays a card down face up at the same time that player 2 lays a card down face up. Whoever has the highest value card, wins both round and takes both cards.
-4. The winning cards are added to the bottom of the winners deck.
+2. The cards are all dealt equally to each player. (we can assume this step)
+3. Each round, player 1 lays a card down face up at the same time that player 2 lays a card down face up. Whoever has the highest value card, wins the round.
 5. Aces are high.
 6. If both cards are of equal value, then the winner is decided upon by the highest suit. The suits ranks in order of ascending value are spades, clubs, diamonds, and hearts.
-7. The player that runs out of cards loses.
-
-
+7. Complete the Card comparison section of this kata. Code out unit tests and logic to support this part of the game. 
 - complete this Kata in a C# Visual Studio Console Application
 
 3. [CodeCracker](http://codingdojo.org/kata/CodeCracker/)
