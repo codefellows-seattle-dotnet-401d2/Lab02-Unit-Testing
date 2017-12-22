@@ -2,7 +2,7 @@
 
 namespace CodeCracker
 {
-    public class RosettaStone
+    public class HackerTime
     {
         public static void Main(string[] args)
         {
@@ -12,7 +12,7 @@ namespace CodeCracker
 
         public static string Encrypt()
         {
-            return "test string";
+            return "testing";
         }
 
         public static string Decrypt(string encodedMessage)
@@ -20,9 +20,9 @@ namespace CodeCracker
             string decodedMessage = "";
             char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
             char[] decoder = { '!', ')', '"', '(', '£', '*', '%', '&', '>', '<', '@', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o' };
-            foreach (char c in encodedMessage)
+            foreach (char i in encodedMessage)
             {
-                int index = Array.IndexOf(decoder, c);
+                int index = Array.IndexOf(decoder, i);
                 Console.WriteLine("" + index);
                 decodedMessage += alphabet[index];
             }
