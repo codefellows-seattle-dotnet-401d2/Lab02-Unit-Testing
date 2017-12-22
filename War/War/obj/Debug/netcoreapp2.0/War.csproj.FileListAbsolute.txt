@@ -1,0 +1,11 @@
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\bin\Debug\netcoreapp2.0\War.deps.json
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\bin\Debug\netcoreapp2.0\War.runtimeconfig.json
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\bin\Debug\netcoreapp2.0\War.runtimeconfig.dev.json
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\bin\Debug\netcoreapp2.0\War.dll
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\bin\Debug\netcoreapp2.0\War.pdb
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\obj\Debug\netcoreapp2.0\War.csprojResolveAssemblyReference.cache
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\obj\Debug\netcoreapp2.0\War.csproj.CoreCompileInputs.cache
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\obj\Debug\netcoreapp2.0\War.AssemblyInfoInputs.cache
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\obj\Debug\netcoreapp2.0\War.AssemblyInfo.cs
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\obj\Debug\netcoreapp2.0\War.dll
+C:\Users\jeffmartinez\Source\Repos\Lab02-Unit-Testing\War\War\obj\Debug\netcoreapp2.0\War.pdb
