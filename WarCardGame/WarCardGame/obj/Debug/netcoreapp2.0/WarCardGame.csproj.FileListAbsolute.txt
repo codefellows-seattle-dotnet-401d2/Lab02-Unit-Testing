@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.deps.json
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.dll
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\bin\Debug\netcoreapp2.0\WarCardGame.pdb
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.dll
+C:\Users\pedra\Documents\codefellows\401\Lab02-Unit-Testing\WarCardGame\WarCardGame\obj\Debug\netcoreapp2.0\WarCardGame.pdb

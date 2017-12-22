@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CodeCracker",
+    "\\WarCardGame",
+    "\\WarCardGame\\WarCardGame",
+    "\\WarCardGame\\XUnitTest-WarCardGame"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\WarCardGame\\WarCardGame\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
