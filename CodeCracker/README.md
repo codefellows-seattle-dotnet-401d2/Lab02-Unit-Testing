@@ -1,12 +1,11 @@
-# About Me Console App Quiz
+# Code Breaker Console App
 
 **Author**: Ariel R. Pedraza <br />
 **Version**: 1.0.0
 
 ## Overview
-This application asks users 5 questions about me, asks for answers and determines if the answers given were correct. 
-After the quiz, it will tell you how many you got correct. This will also re-ask a question if the input was just an empty string.
-
+This application can take a encrypted or plain text string, and decrypt or encrypt respectively using a hard coded decoder key.
+Prompt for user input not implemented, hard coded example messages.
 
 ## Getting Started
 The following is required to run the program.
@@ -15,19 +14,10 @@ The following is required to run the program.
 
 ## Example
 ```
-Console Quiz App - About App
-
-Would you like to enable hints?: > yes
-Hints Enabled!
-
-What is the meaning of life?
-Hints: Money, Fame, Glory, 42
-> 42
-42 is correct!
-.
-.
-.
-
+Encrypting the following message: Hello World
+&£aad ldga(
+Decrypting the following message: e>@!"&j
+pikachu
 ```
 
 ## Architecture

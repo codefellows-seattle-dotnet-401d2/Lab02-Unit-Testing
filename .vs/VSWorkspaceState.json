@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WarCardGame"
+    "\\CodeCracker",
+    "\\WarCardGame",
+    "\\WarCardGame\\WarCardGame",
+    "\\WarCardGame\\XUnitTest-WarCardGame"
   ],
-  "SelectedNode": "\\WarCardGame\\WarCardGame.sln",
+  "SelectedNode": "\\WarCardGame\\WarCardGame\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

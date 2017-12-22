@@ -1,12 +1,11 @@
-# About Me Console App Quiz
+# War Card Game Console App
 
 **Author**: Ariel R. Pedraza <br />
-**Version**: 1.0.0
+**Version**: 0.1.1
 
 ## Overview
-This application asks users 5 questions about me, asks for answers and determines if the answers given were correct. 
-After the quiz, it will tell you how many you got correct. This will also re-ask a question if the input was just an empty string.
-
+This application is a War Card Game where the two players split a random deck of cards, plays one each, whoever has the higher card gets to keep both cards.
+Only "card" comparisons are implemented and associated unit tests.
 
 ## Getting Started
 The following is required to run the program.
@@ -15,19 +14,22 @@ The following is required to run the program.
 
 ## Example
 ```
-Console Quiz App - About App
+Welcome to WAR (card game)!
 
-Would you like to enable hints?: > yes
-Hints Enabled!
+Playing Turn
+Jack of Diamonds beats 4 of Clubs
 
-What is the meaning of life?
-Hints: Money, Fame, Glory, 42
-> 42
-42 is correct!
+Playing Turn
+Jack of Diamonds loses to Queen of Clubs
+
+Playing Turn
+6 of Diamonds beats 6 of Clubs
+
+Playing Turn
+6 of Spades loses to 6 of Hearts
 .
 .
 .
-
 ```
 
 ## Architecture

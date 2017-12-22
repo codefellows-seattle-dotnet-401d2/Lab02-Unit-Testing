@@ -10,10 +10,17 @@ namespace WarCardGame
             StartGame();
         }
 
+        /// <summary>
+        /// This would normally instantiate the deck and players hands and control the main loop of the game until someone wins.
+        /// </summary>
         private static void StartGame()
         {
-            //11:Jack, 12:Queen, 13:King, 14:Ace
-            //.1:spades, .2:clubs, .3:diamonds, .4:hearts
+            /* This is not being implemented, but below is how the internal representation
+             * of the cards would be to make comparing two cards easier.
+             * 2-10: self explanitory
+             * 11: Jack, 12: Queen, 13: King, 14: Ace
+             * .1: Spades, .2: Clubs, .3: Diamonds, .4: Hearts
+            */
             double[] deckOfCards =
             {
                 2.1, 2.2, 2.3, 2.4,
@@ -30,6 +37,7 @@ namespace WarCardGame
                 13.1,13.2,13.3,13.4,
                 14.1,14.2,14.3,14.4,
             };
+            // A bit redundant since I have Xunit tests, but I wanted some output when running the actual program.
             IsCardOneHigher(11.3, 4.2);
             IsCardOneHigher(11.3, 12.2);
             IsCardOneHigher(6.3, 6.2);
@@ -37,13 +45,20 @@ namespace WarCardGame
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// This is used to get a string description of the value and suit of a card based on the internal number representation.
+        /// </summary>
+        /// <param name="card">A double from the pool in deckOfCards array, passed in as the current card being played</param>
+        /// <returns>A string of what the cards suit and value are</returns>
         public static string ConvertToCardName(double card)
         {
+            // type casting to remove the decimal
             int value = (int)card;
+            // turning the decimal into its own whole number. this was the only way I found avoid math rounding errors
             double suit = (card * 10) - (Math.Floor(card) * 10);
             string cardName = "";
-            Console.WriteLine(value + " " + suit);
 
+            // the card's value being appended to the returning string
             switch (value)
             {
                 case 2:
@@ -73,6 +88,7 @@ namespace WarCardGame
                     cardName += "Value of ";
                     break;
             }
+            // the card's suit being appended to the returning string
             switch (suit)
             {
                 case 1:
@@ -95,6 +111,12 @@ namespace WarCardGame
             return cardName;
         }
 
+        /// <summary>
+        /// Determines if card 1 is higher than card 2 and informs the players.
+        /// </summary>
+        /// <param name="card1">double type. player 1's current card played.</param>
+        /// <param name="card2">double type. player 2's current card played.</param>
+        /// <returns>boolean if card 1 wins or not by being a higher value</returns>
         public static bool IsCardOneHigher(double card1, double card2)
         {
             Console.WriteLine("\nPlaying Turn");
