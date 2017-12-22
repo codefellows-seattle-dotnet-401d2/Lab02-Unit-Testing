@@ -13,10 +13,13 @@ The following is required to run the program.
 - NuGet xUnit package
 
 ## Example
-```Welcome to War
+```
+
+Welcome to War
 Result: You Lose!
-Computer: 12
-Player: 9
+Computer: 8
+Player: 7
+
 ```
 
 ## Architecture
