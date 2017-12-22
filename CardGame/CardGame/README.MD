@@ -15,4 +15,5 @@ The .NET desktop development workload enabled
 Architecture
 This application is created using ASP.NET Core 2.0 Console applicaitons. 
 Language: C# 
-Type of Applicaiton: Console Application 
+Type of Applicaiton: Console Application
+
