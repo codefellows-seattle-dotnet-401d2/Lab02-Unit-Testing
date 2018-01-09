@@ -27,7 +27,7 @@ namespace CodeCracker
             char[] code = { '!', ')', '"', '(', '£', '*', '%', '&', '>', '<', '@', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o' };
            
 
-            foreach (char c in plainText.ToLower())
+            foreach (char c in words.ToLower())
             {
                 int index = Array.IndexOf(alphabet, c);
                 if (index != -1) encryptMessage += code[index];
@@ -51,7 +51,7 @@ namespace CodeCracker
             {
                 int index = Array.IndexOf(code, c);
                 if (index != -1) words += alphabet[index];
-                else plainText += " ";
+                else words += " ";
             }
             return words;
         }
