@@ -1,0 +1,4 @@
+C:\Users\Matt\Source\Repos\Lab02-Unit-Testing\codecracker.cs\codecracker.cs\obj\Debug\netcoreapp2.0\codecracker.cs.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Source\Repos\Lab02-Unit-Testing\codecracker.cs\codecracker.cs\obj\Debug\netcoreapp2.0\codecracker.cs.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\Lab02-Unit-Testing\codecracker.cs\codecracker.cs\obj\Debug\netcoreapp2.0\codecracker.cs.AssemblyInfoInputs.cache
+C:\Users\Matt\Source\Repos\Lab02-Unit-Testing\codecracker.cs\codecracker.cs\obj\Debug\netcoreapp2.0\codecracker.cs.AssemblyInfo.cs
